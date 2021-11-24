@@ -12,6 +12,7 @@ class Book extends Model
 
 
     public function path(){
-        return '/books/' . $this->id;
+        return '/books2/' . $this->id;
     }
+
 }

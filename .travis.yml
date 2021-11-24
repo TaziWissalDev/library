@@ -17,3 +17,4 @@ services:
 
 script:
     - vendor/bin/phpunit # run PHPUnit
+    
